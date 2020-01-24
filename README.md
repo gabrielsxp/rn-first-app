@@ -1,5 +1,5 @@
 
-#React Native First App
+# React Native First App
 
 ![](screen.gif)
 
