@@ -1,6 +1,8 @@
 
-##RN-FIRST-APP
+#React Native First App
+
 ![](screen.gif)
+
 Well, I've basically decided to enter the world of mobile development and for that I choose React-Native because of the my contact with React.
 The idea of this app is very simple. You type the goal and tap the add button to add the item to the list of goals. When you tap the list item, it gets the index of the tapped item and delete it from the list. Simple as that.
 Things that I've learned from this project
